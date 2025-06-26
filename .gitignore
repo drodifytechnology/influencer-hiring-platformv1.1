@@ -1,0 +1,9 @@
+core/vendor
+.vscode
+test.js
+test.css
+*.zip
+vendor
+laravel
+.env
+install/*.sql
