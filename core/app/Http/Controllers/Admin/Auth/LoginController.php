@@ -61,7 +61,7 @@ class LoginController extends Controller
 
     public function username()
     {
-        return 'username';
+        return 'email';
     }
 
     public function login(Request $request)

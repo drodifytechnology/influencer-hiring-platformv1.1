@@ -1,0 +1,7 @@
+[26-Jun-2025 08:16:53 UTC] PHP Warning:  Module "fileinfo" is already loaded in Unknown on line 0
+[26-Jun-2025 08:16:53 UTC] PHP Warning:  require(/home/drodifytechnolog/influencer.drodifytechnology.xyz/core/vendor/autoload.php): Failed to open stream: No such file or directory in /home/drodifytechnolog/influencer.drodifytechnology.xyz/core/artisan on line 18
+[26-Jun-2025 08:16:53 UTC] PHP Warning:  require(/home/drodifytechnolog/influencer.drodifytechnology.xyz/core/vendor/autoload.php): Failed to open stream: No such file or directory in /home/drodifytechnolog/influencer.drodifytechnology.xyz/core/artisan on line 18
+[26-Jun-2025 08:16:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/drodifytechnolog/influencer.drodifytechnology.xyz/core/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/drodifytechnolog/influencer.drodifytechnology.xyz/core/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/drodifytechnolog/influencer.drodifytechnology.xyz/core/artisan on line 18
